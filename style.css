@@ -176,4 +176,9 @@ footer {
         display: none;
     }
     /* End Side Bar */
+
+    #copyright {
+        text-align: center;
+    }
+    /* End Footer */
 }
