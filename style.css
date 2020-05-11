@@ -114,6 +114,7 @@ nav {
 
 /* Footer */
 footer {
+    background-color: #6d6d70;
     padding: 5px;
     overflow: hidden;
 }
@@ -143,7 +144,7 @@ footer {
 
 /* Main Section */
 
-#about {
+#main {
     /* background-color: red; */
     width: 70%;
     padding: 15px;
@@ -151,7 +152,7 @@ footer {
     /* margin-left: 10px; */
 }
 
-#about h2 {
+#main h2 {
     color: #ffffff
 }
 
@@ -204,4 +205,11 @@ footer {
         text-align: center;
     }
     /* End Footer */
+
+
+    /* Index.html */
+    #main {
+        width: 100%;
+    }
+    /* End Index.html */
 }
