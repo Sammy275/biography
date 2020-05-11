@@ -116,11 +116,7 @@ nav {
 footer {
     background-color: #6d6d70;
     padding: 5px;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    /* height: 20%; */
+    overflow: hidden;
 }
 
 #contacts h3, #copyright h3 {
