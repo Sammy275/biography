@@ -143,6 +143,26 @@ footer {
 
 
 
+
+
+/* Main Section */
+
+#about {
+    /* background-color: red; */
+    width: 60%;
+    padding: 15px;
+    font-size: 105%;
+    /* margin-left: 10px; */
+}
+
+#about h2 {
+    color: #ffffff
+}
+
+/* End Main Section */
+
+
+
 /* Media Queries */
 
 @media (max-width: 1100px) {
