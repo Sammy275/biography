@@ -112,6 +112,35 @@ nav {
 /*End SideBar Style */
 
 
+/* Footer */
+footer {
+    background-color: #6d6d70;
+    padding: 5px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* height: 20%; */
+}
+
+#contacts h3, #copyright h3 {
+    color: #ffffff;
+}
+
+#contacts p {
+    font-size: 105%;
+}
+
+#contacts a {
+    color:white;
+    text-decoration: none;
+}
+
+#contacts a:hover {
+    color: #000000;
+}
+/* End Footer */
+
 
 
 /* Media Queries */
