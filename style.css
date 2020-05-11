@@ -114,7 +114,6 @@ nav {
 
 /* Footer */
 footer {
-    background-color: #6d6d70;
     padding: 5px;
     overflow: hidden;
 }
@@ -140,6 +139,7 @@ footer {
 
 
 
+/************************ Index.html ********************************/
 
 /* Main Section */
 
@@ -157,6 +157,12 @@ footer {
 
 /* End Main Section */
 
+/************************ End Index.html ********************************/
+
+/************************ About.html ********************************/
+
+
+/************************ End About.html ********************************/
 
 
 /* Media Queries */
